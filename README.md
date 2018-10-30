@@ -13,7 +13,7 @@
 
 ### English
 - - -
-Dashboard Finder 
+Dashboard Finder
 
 Cangibrina is a multi platform tool which aims to obtain the Dashboard of sites using brute-force 
 over wordlist, google, nmap, and robots.txt
